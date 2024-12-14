@@ -1,0 +1,1 @@
+﻿select * from Cars c inner join CarDetails cd on c.CarDetailId = cd.Id inner join CarComfortDetails ccd on cd.CarComfortDetailId = ccd.Id

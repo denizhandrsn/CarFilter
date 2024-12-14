@@ -1,0 +1,1 @@
+﻿select * from Cars c inner join CarDetails cd on c.
